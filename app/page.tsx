@@ -22,7 +22,6 @@ export default function Home() {
         </section>
 
         <section className="mt-12">
-          <h2 className="mb-4 text-xl font-semibold"></h2>
           <YouTubeEmbed height={400} videoid="CanCZktm0TQ" params="" />
         </section>
       </div>
