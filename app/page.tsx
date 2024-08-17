@@ -22,6 +22,11 @@ export default function Home() {
         </section>
 
         <section className="mt-12">
+          <h2 className="mb-4 text-xl font-semibold">
+            I met you in person, you so different I can&apos;t listen to you for
+            a whole minute Took a blood test, ain&apos;t no ho in it Watch your
+            motherfin&apos; mouth &apos;fore I go in it
+          </h2>
           <YouTubeEmbed height={400} videoid="CanCZktm0TQ" params="" />
         </section>
       </div>
