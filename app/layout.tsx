@@ -13,13 +13,13 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://test-third-parties.vercel.app/"),
   openGraph: {
     images: ["/img.jpg"],
-    title: "og title",
-    description: "og Description",
+    // title: "og title",
+    // description: "og Description",
   },
   twitter: {
     images: ["/img.jpg"],
-    title: "twititer title",
-    description: "twiiter Description",
+    // title: "twititer title",
+    // description: "twiiter Description",
   },
 };
 
